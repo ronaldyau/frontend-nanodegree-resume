@@ -11,7 +11,7 @@ h5,
 h6 {
   padding:0;
   margin:0;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
 }
 
 .clear-fix {
@@ -26,7 +26,7 @@ h6 {
 
 h1 {
   font-size: 40px;
-  color: #f5a623;
+  color: #e3e0cf;
   line-height: 48px;
   display: inline;
 }
@@ -118,13 +118,13 @@ a {
 }
 
 .gray {
-  background-color: #f3f3f3;
+  background-color: #e3e0cf;
   padding-bottom: 10px;
   clear:both;
 }
 
 .dark-gray {
-  background-color: #4a4a4a;
+  background-color: #9fa8a3;
 }
 
 /* TODO: Replace with image later */
